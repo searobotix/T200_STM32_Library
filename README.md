@@ -1,8 +1,6 @@
 # T200 STM32 测试例程
 STM32 Library for T200 Thrusters
-
 <br/>
-
 ## 测试配件
 
 **开发板:** SeaRobotix STM32 Test Board
