@@ -1,11 +1,14 @@
 # T200 STM32 测试例程
 STM32 Library for T200 Thrusters
+
 <br/>
+
 ## 测试配件
 
 **开发板:** SeaRobotix STM32 Test Board
 
 **配套电调:** ESC30 
+
 <br/>
 
 ## 测试原理
@@ -13,6 +16,7 @@ STM32 Library for T200 Thrusters
 STM32 开发板发送控制命令到 T200 驱动器（ ESC30 电调），T200 驱动器根据收到的参数控制 T200 推进器的转速和转向。
 
 <br/>
+
 ## 测试本质
 
 本测试中 STM32 开发板的实质是一个 PWM 波发生器，通过改变 PWM 波参数影响 T200 的转速和转向。
