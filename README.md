@@ -3,9 +3,9 @@ STM32 Library for T200 Thrusters
 
 ## 测试配件
 
-**开发板:**SeaRobotix STM32 Test Board
+**开发板:** SeaRobotix STM32 Test Board
 
-**配套电调: **ESC30 
+**配套电调:** ESC30 
 
 
 ## 测试原理
