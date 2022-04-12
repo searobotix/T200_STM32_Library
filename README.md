@@ -44,3 +44,7 @@ STM32 开发板发送控制命令到 T200 驱动器（ ESC30 电调），T200 �
 [ T200 推进器常见问题 FAQ ](http://searobotix.com/t200-thruster/faq/)
 
 <br/>
+
+## PWM输出端口：GPIOB.5
+
+<br/>
